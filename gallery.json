@@ -1,0 +1,14 @@
+[
+  {
+    "image": "images/art1.jpg",
+    "prompt": "A futuristic city skyline at sunset in cyberpunk style"
+  },
+  {
+    "image": "images/art2.jpg",
+    "prompt": "A fantasy forest with glowing mushrooms and magical creatures"
+  },
+  {
+    "image": "images/art3.jpg",
+    "prompt": "Ultra realistic portrait of a woman with neon lights reflection"
+  }
+]
